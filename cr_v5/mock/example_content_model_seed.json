@@ -1,0 +1,36 @@
+{
+  "spaceId": "ISS_IDG",
+  "knowledgeTypes": [
+    {
+      "parent": "Technical",
+      "name": "How To",
+      "contentModel": "RICH_TEXT_HTML"
+    },
+    {
+      "parent": "Technical",
+      "name": "Known Issue",
+      "contentModel": "STRUCTURED"
+    },
+    {
+      "parent": "Technical",
+      "name": "BIOS Error",
+      "contentModel": "STRUCTURED"
+    },
+    {
+      "parent": "SOP",
+      "name": "SOP",
+      "contentModel": "RICH_TEXT_HTML"
+    },
+    {
+      "parent": "Product",
+      "name": "Product",
+      "contentModel": "RICH_TEXT_HTML"
+    },
+    {
+      "parent": "Product",
+      "name": "Self Repair",
+      "contentModel": "STRUCTURED"
+    }
+  ],
+  "notes": "Example initialization only. Does not introduce standard field schemas."
+}

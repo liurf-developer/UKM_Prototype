@@ -1,0 +1,6 @@
+{
+  "name": "Lenovo UKM Workspace",
+  "description": "Enterprise Unified Knowledge Management (UKM) platform prototype for knowledge type configuration, dynamic template & metadata binding, article authoring, review workflow, and publication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
